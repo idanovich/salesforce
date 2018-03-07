@@ -1,6 +1,6 @@
 # preliminaries #
 
-connection: "salesforce_data"
+connection: "redshift"
 
 include: "*.view"
 
