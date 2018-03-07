@@ -1,5 +1,5 @@
 view: _contact {
-  sql_table_name: salesforce.sf_contact ;;
+  sql_table_name: salesforce.contact ;;
   # dimensions #
 
   dimension: id {
